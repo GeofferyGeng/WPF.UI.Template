@@ -1,0 +1,12 @@
+{
+    "author": "GeofferyGeng",
+    "name": "WPF UI - Fluent Application",
+    "description": "WPF UI - Fluent Navigation.",
+    "identity": "WPF.UI.Fluent.Template",
+    "shortName": "wpfui-fluent",
+    "tags": {
+        "language": "C#",
+        "type": "project"
+    },
+    "sourceName": "WPF.UI.Fluent.Template"
+}
