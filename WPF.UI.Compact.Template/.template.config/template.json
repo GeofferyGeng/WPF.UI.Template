@@ -1,0 +1,12 @@
+{
+    "author": "GeofferyGeng",
+    "name": "WPF UI - Compact Application",
+    "description": "WPF UI - Compact Navigation.",
+    "identity": "WPF.UI.Compact.Template",
+    "shortName": "wpfui-compact",
+    "tags": {
+        "language": "C#",
+        "type": "project"
+    },
+    "sourceName": "WPF.UI.Compact.Template"
+}
