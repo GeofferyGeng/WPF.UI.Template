@@ -1,0 +1,12 @@
+{
+    "author": "GeofferyGeng",
+    "name": "WPF UI - Blank Application",
+    "description": "WPF UI - Blank Navigation.",
+    "identity": "WPF.UI.Blank.Template",
+    "shortName": "wpfui-blank",
+    "tags": {
+        "language": "C#",
+        "type": "project"
+    },
+    "sourceName": "WPF.UI.Blank.Template"
+}
