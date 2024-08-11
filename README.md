@@ -18,17 +18,17 @@ Click `New Solution` on JetBrains Rider.
 ## step 3
 Click `Install Template` on JetBrains Rider.
 
-<img src="https://github.com/GeofferyGeng/WPF.UI.Fluent.Template/blob/main/assets/step2.png" width="500">
+<img src="https://github.com/GeofferyGeng/WPF.UI.Fluent.Template/blob/main/assets/step3.png" width="500">
 
 ## step 4
 Click `Install Template` on JetBrains Rider and select the project path.
 
-<img src="https://github.com/GeofferyGeng/WPF.UI.Fluent.Template/blob/main/assets/step2.png" width="500">
+<img src="https://github.com/GeofferyGeng/WPF.UI.Fluent.Template/blob/main/assets/step4.png" width="500">
 
 ## step 5
 Use this template to create a WPF UI - Fluent Application.
 
-<img src="https://github.com/GeofferyGeng/WPF.UI.Fluent.Template/blob/main/assets/step2.png" width="500">
+<img src="https://github.com/GeofferyGeng/WPF.UI.Fluent.Template/blob/main/assets/step5.png" width="500">
 
 # preview
 
